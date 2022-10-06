@@ -19,9 +19,6 @@
     </properties>
     <modules>
 
-	    
-	    
-	    
         <module>frontend</module>
         <module>backend</module>
 
