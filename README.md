@@ -1,9 +1,9 @@
-# Project Web Application with Frontend and Backend and this is a new addition this is main
+# Project with Frontend and Backend which is to launch the algorithm and the connectivity between the kafka server and the postgres DB
 
 ## Project
-You can sign up as new user using registration link also.
+You can create the configuration with the spring boot application and use the same config to run.
 
-The dashboard is auto-populated for first two users. 
+Kafka consumer and producers will be created based on the configuration and the data fed from the csv will be read analysed and passed to topics. 
 
 ## Prerequisites
 
